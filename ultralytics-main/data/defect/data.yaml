@@ -1,0 +1,5 @@
+# dataset.yaml
+train: C:/Users/17866/Desktop/ultralytics-main (1)/ultralytics-main/data/defect/train.txt
+val: C:/Users/17866/Desktop/ultralytics-main (1)/ultralytics-main/data/defect/val.txt
+names:
+  0: defect

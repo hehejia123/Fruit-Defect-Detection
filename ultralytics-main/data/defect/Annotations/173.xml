@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>173.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\data\images\173.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>293</width>
+		<height>172</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>67</ymin>
+			<xmax>215</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

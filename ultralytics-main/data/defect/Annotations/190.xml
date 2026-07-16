@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>190.jpg</filename>
+	<path>C:\Users\Administrator\Desktop\data\images\190.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>263</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>defect</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>65</ymin>
+			<xmax>215</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

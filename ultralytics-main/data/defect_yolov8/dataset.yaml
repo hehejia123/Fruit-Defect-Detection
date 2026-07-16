@@ -1,0 +1,8 @@
+path: C:\Users\17866\Desktop\ultralytics-main (1)\ultralytics-main\data\defect_yolov8
+train: images/train
+val: images/val
+test:  # 可选测试集路径
+
+# 类别名称
+names:
+  0: defect
