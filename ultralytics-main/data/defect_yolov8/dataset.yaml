@@ -1,8 +1,8 @@
-path: C:\Users\17866\Desktop\ultralytics-main (1)\ultralytics-main\data\defect_yolov8
+path: C:\Users\17866\Desktop\apple detection\ultralytics-main\data\defect_yolov8
 train: images/train
 val: images/val
-test:  # ¿ÉÑ¡²âÊÔ¼¯Â·¾¶
+test:  # ï¿½ï¿½Ñ¡ï¿½ï¿½ï¿½Ô¼ï¿½Â·ï¿½ï¿½
 
-# Àà±ðÃû³Æ
+# ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 names:
   0: defect
